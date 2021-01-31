@@ -1,4 +1,6 @@
 package com.qa.pages;
+//go
+//
 
 public class LoginPage {
 
