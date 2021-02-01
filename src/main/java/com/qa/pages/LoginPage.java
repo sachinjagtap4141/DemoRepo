@@ -1,6 +1,6 @@
 package com.qa.pages;
 //go
-//
+//how to pull code
 
 public class LoginPage {
 
