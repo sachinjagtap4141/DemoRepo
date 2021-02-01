@@ -1,6 +1,4 @@
 package com.qa.pages;
-//go
-//how to pull code
 /*
 first time only you have to clone project
 i.e git clone <url>
